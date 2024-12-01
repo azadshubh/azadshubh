@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning about Java | Fullstack web dev<br>💬 Ask me about: I am a second year computer science student <br>intrested in programing,web developement and cybersecurity<br>⚡ Fun fact:Every month, over 5,000 new computer viruses are released.
+<br>🌱 I’m currently learning about Java | Fullstack web dev<br>💬 Ask me about: I am a third year computer science student <br>intrested in programing,web developement and cybersecurity<br>⚡ Fun fact:Every month, over 5,000 new computer viruses are released.
 
 
 # 💻 Tech Stack:
